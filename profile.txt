@@ -4,24 +4,24 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Prof. Pin Luarn
+name=Lukas Dörner
 
-title1=Top 2% Scientist Worldwide (2020-2026)
+title1=Master of Science 
 
-title2=2024 National Teaching Award Laureate
+title2=Worlds best hobby chef and dancer 
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+expertise=environmental science, sustainability, environment, health and safety, energy engineering 
 
-education=Ph.D. in Industrial Engineering, University of Wisconsin-Madison, USA
+education=BaSc. in Environmental Science in Tübingen, Germany, MSc.in Life Cycle and Sustainability in Pforzheim, Germany
 
-email=luarn@mail.ntust.edu.tw
+email=doernerl@hs-pforzheim.de
 linkedin=https://pse.is/8nn88y
 
-about1=Prof. Luarn earned his B.S. in Industrial Engineering from Tunghai University,
-about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
-about3=Named among the world's top 2% scientists by Stanford University & Elsevier for seven consecutive years (2020-2026).
-about4=Recipient of the 2024 Presidential National Teaching Award, Taiwan
+about1=Lukas Dörner did his Bachelor Degree in Environmental Science in Tübingen and still feels like he should have received an engineering title for it,
+about2=but not for his Master in Life Cycle and Sustainability.
+about3=Not named among the world's top 2% scientists by Stanford University & Elsevier.
+about4=Published a school book this year for LCA in schooling.
 
-phone=+886-2-2737-6754
+phone=+49 177 706233
 
-location=T2-409, National Taiwan University of Science and Technology, No. 43, Sec. 4, Keelung Rd., Taipei, Taiwan
+location=Hochschule Pforzheim
