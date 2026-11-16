@@ -15,7 +15,7 @@ expertise=environmental science, sustainability, environment, health and safety,
 education=BaSc. in Environmental Science in Tübingen, Germany, MSc.in Life Cycle and Sustainability in Pforzheim, Germany
 
 email=doernerl@hs-pforzheim.de
-linkedin=linkedin.com/in/lukas-dörner-5a3249317
+linkedin=lukas-dörner-5a3249317/
 
 about1=Lukas Dörner did his Bachelor Degree in Environmental Science in Tübingen and still feels like he should have received an engineering title for it,
 about2=but not for his Master in Life Cycle and Sustainability.
