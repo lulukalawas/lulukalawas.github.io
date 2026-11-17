@@ -6,22 +6,22 @@
 
 name=Lukas Dörner
 
-title1=Master of Science 
+title1=Student-ID:332866
 
-title2=Worlds best hobby chef and dancer 
+title2=MSc. Life Cycle and Sustainability
 
 expertise=environmental science, sustainability, environment, health and safety, energy engineering 
 
-education=BaSc. in Environmental Science in Tübingen, Germany, MSc.in Life Cycle and Sustainability in Pforzheim, Germany
+education=Ba.Sc. in Environmental Science in Tübingen, Germany, MSc. in Life Cycle and Sustainability in Pforzheim, Germany
 
 email=doernerl@hs-pforzheim.de
-linkedin=lukas-dörner-5a3249317/
+linkedin=https://www.linkedin.com/in/lukas-dörner-5a3249317/
 
-about1=Lukas Dörner did his Bachelor Degree in Environmental Science in Tübingen and still feels like he should have received an engineering title for it,
-about2=but not for his Master in Life Cycle and Sustainability.
-about3=Not named among the world's top 2% scientists by Stanford University & Elsevier.
-about4=Published a school book this year for LCA in schooling.
+about1=Lukas Dörner earned his Bachelor's degree in Environmental Science at the University of Tübingen and still believes he deserved an engineering title for it.
+about2=Currently pursuing a Master's degree in Life Cycle & Sustainability at Pforzheim University, turning complex environmental problems into even more complex Excel sheets and Python models.
+about3=Not (yet) among the world's top 2% scientists according to Stanford University & Elsevier, but keeping his options open.
+about4=Co-authored a school textbook on Life Cycle Assessment (LCA) in 2026, helping bring sustainability thinking into classrooms.
 
-phone=+49 177 706233
+phone=+49 177 7506233
 
 location=Hochschule Pforzheim
