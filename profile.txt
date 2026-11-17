@@ -12,7 +12,7 @@ title2=MSc. Life Cycle and Sustainability
 
 expertise=environmental science, sustainability, environment, health and safety, energy engineering 
 
-education=Ba.Sc. in Environmental Science in Tübingen, Germany, MSc. in Life Cycle and Sustainability in Pforzheim, Germany
+education=BSc. in Environmental Science in Tübingen, Germany, MSc. in Life Cycle and Sustainability in Pforzheim, Germany
 
 email=doernerl@hs-pforzheim.de
 linkedin=https://www.linkedin.com/in/lukas-dörner-5a3249317/
