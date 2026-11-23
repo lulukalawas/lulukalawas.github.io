@@ -529,7 +529,7 @@ class ChatBot {
                     <div class="chatbot-header">
                         <div class="chatbot-title">
                             <span class="title-icon">🎓</span>
-                            <span>Prof. Luan's AI Course ChatBOT</span>
+                            <span>Lukas' AI ChatBOT</span>
                         </div>
                         <div class="chatbot-header-buttons">
                             <button class="chatbot-btn clear-btn" id="clearChatBtn" title="Clear chat history">
@@ -822,7 +822,7 @@ class ChatBot {
         if (recentHistory.length === 0) {
             // If no history, show welcome message
             setTimeout(() => {
-                this.addMessage("Hello! I'm Prof. Luan's AI course assistant. Do you have any questions?", 'ai');
+                this.addMessage("Hello! I'm Lukas' AI assistant. Do you have any questions?", 'ai');
             }, 1000);
         }
     }
