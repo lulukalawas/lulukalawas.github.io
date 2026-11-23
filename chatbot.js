@@ -3,7 +3,7 @@ class ChatBot {
     constructor() {
         // ⚠️ Important: Replace with your n8n webhook URL
         // ****************************************************************
-        this.webhookUrl = 'https://homeemba.app.n8n.cloud/webhook/chat';
+        this.webhookUrl = 'https://lud06.app.n8n.cloud/webhook/chat';
         // ****************************************************************        
         // Initialize session ID
         this.sessionId = this.getOrCreateSessionId();
